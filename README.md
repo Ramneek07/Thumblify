@@ -197,16 +197,3 @@ Contributions are welcome and appreciated! 🚀
 
 This project is licensed under the **MIT License**.
 See the `LICENSE` file for details.
-
----
-
-### ⭐ If you like this project, don’t forget to star the repo!
-
-If you want, I can also:
-
-* Add **badges (TypeScript, MERN, Gemini)**
-* Write a **resume-ready project description**
-* Create a **portfolio explanation**
-* Optimize README for **recruiters**
-
-Just tell me 👍
